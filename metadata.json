@@ -1,0 +1,6 @@
+{
+  "name": "Aria Vance Atelier - Designer Fashion E-Commerce",
+  "description": "A luxury e-commerce experience for designer dresses featuring bridal, luxury pret, custom stitching, order tracking, AI stylist, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
