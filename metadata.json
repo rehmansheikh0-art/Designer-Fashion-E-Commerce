@@ -1,6 +1,6 @@
 {
-  "name": "Aria Vance Atelier - Designer Fashion E-Commerce",
-  "description": "A luxury e-commerce experience for designer dresses featuring bridal, luxury pret, custom stitching, order tracking, AI stylist, and admin management.",
+  "name": "Gourmet Bites",
+  "description": "A luxury e-commerce experience for Gourmet Chocolate-Filled Wafer Bites featuring artisan flavors, interactive flavor explorer, product showcase, and seamless shopping experience.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
